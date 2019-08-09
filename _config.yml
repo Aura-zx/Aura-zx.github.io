@@ -69,8 +69,8 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "中心医院降生，粗糙段子手，点赞者，投币者，蓝星求知者，天花不侵之人</br>
-        艾泽拉斯大领主，花村村委会荣誉会员，海拉尔大陆观光客，守护岑缨办公室主任</br>
-        米饭终结者，麻辣香锅杀手，小面追随者"
+艾泽拉斯大领主，花村村委会荣誉会员，海拉尔大陆观光客，守护岑缨办公室主任</br>
+米饭终结者，麻辣香锅杀手，小面鉴赏大师"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
