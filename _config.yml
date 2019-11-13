@@ -1,6 +1,6 @@
 # Site settings
-title: Xin's Blog
-SEOTitle: 阿鑫的博客 | Xin's Blog
+title: Xin Blog
+SEOTitle: 阿鑫的博客 | Xin Blog
 header-img: img/tomb-raider.jpg
 email: kaomygod@gmail.com
 description: ""
@@ -52,7 +52,7 @@ kramdown:
 # Duoshuo settings
 duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 
